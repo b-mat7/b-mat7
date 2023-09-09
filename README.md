@@ -3,9 +3,9 @@
 
 
 ## 👨🏼‍💻 About me
-For over a decade I've helped companies building their ITSM (IT-Service Management) capabilities. Contributing on all levels ranging from process owner, teamlead to department consultant, I accompanied ITSM platform integrations, and leveraged scripting to push the envelope aligning app possibilities with business needs.
+For over a decade I've helped companies building their ITSM (IT-Service Management) capabilities. Contributing in different industries, on levels ranging from process owner, teamlead to department consultant, I accompanied ITSM platform integrations, and leveraged scripting to push the envelope aligning tool possibilities with business needs.
 
-Technology, software and all the engineering work behind the scenes always fascinated me. Witnessing what's possible beyond any low-code UI amplified this, and I decided to follow my long-standing interest and switch sides, straight into where the magic happens, in software engineering.
+I like to build things and solve problems. Technology, software and all the engineering work behind the scenes always fascinated me. Witnessing what's possible beyond any low-code UI amplified my interest, so I decided to follow it and switch sides into where the magic happens - in software engineering.
 
 I'm determined, hardworking, optimistic with hands-on mentality and a bit of perfectionism. Besides that, you can find me mountain biking, and enjoying nature with my wife...collect moments, not things!
 
@@ -25,7 +25,7 @@ I'm determined, hardworking, optimistic with hands-on mentality and a bit of per
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/officel/40/express-js.png" alt="express-js"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 (
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
@@ -35,24 +35,12 @@ I'm determined, hardworking, optimistic with hands-on mentality and a bit of per
 
 ### 🛠️ Tools
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img width="40" height="40" src="https://img.icons8.com/color/40/bash.png" alt="bash"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
 
-<br>
 
-<table>
-  <tr>
-    <td>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-mat7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-    </td>
-    <td>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=b-mat7&theme=dark&hide_border=true)
-    </td>
-</tr>
-</table>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-mat7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-mat7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=b-mat7&theme=dark&hide_border=true)
 
 <img src="https://raw.githubusercontent.com/b-mat7/b-mat7/output/snake.svg" alt="Snake animation" />
