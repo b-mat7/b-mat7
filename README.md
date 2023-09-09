@@ -1,12 +1,14 @@
 # Hey there, I'm Matthias 🙋🏼‍♂️
 ### An ITSM veteran switching to the dark side
 
+
 ## 👨🏼‍💻 About me
 For over a decade I've helped companies building their ITSM (IT-Service Management) capabilities. Contributing on all levels ranging from process owner, teamlead to department consultant, I accompanied ITSM platform integrations, and leveraged scripting to push the envelope aligning app possibilities with business needs.
 
 Technology, software and all the engineering work behind the scenes always fascinated me. Witnessing what's possible beyond any low-code UI amplified this, and I decided to follow my long-standing interest and switch sides, straight into where the magic happens, in software engineering.
 
 I'm determined, hardworking, optimistic with hands-on mentality and a bit of perfectionism. Besides that, you can find me mountain biking, and enjoying nature with my wife...collect moments, not things!
+
 
 ## 💻 I code with
 ### 💬 Languages (🌱 learning pipeline)
@@ -32,13 +34,10 @@ I'm determined, hardworking, optimistic with hands-on mentality and a bit of per
 
 
 ### 🛠️ Tools
-<img display="inline-block" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" /></a>
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
-
-
-<br>
 
 ## Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=b-mat7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br>
